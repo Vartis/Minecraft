@@ -6,6 +6,7 @@ minecraft/coremods
 minecraft/data
 minecraft/defaultconfigs
 minecraft/downloads
+minecraft/emi.json
 minecraft/emilink
 minecraft/fancymenu_data
 minecraft/local
@@ -17,6 +18,8 @@ minecraft/saves
 minecraft/schematics
 minecraft/screenshots
 minecraft/server-resource-packs
+minecraft/servers.dat
+minecraft/shaderpacks/ComplementaryUnbound_r5.8.1 + EuphoriaPatches_1.9.3
 minecraft/tacz
 minecraft/texturepacks
 minecraft/usercache.json
